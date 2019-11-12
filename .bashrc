@@ -20,7 +20,7 @@ alias sn="pmset sleepnow"
 # common shortcuts
 alias c='clear'
 alias o='open'
-alias e='subl'
+alias e='subl' #needs extra config
 
 # reveal a file in the Finder.app
 alias reveal='open -R'
