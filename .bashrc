@@ -23,5 +23,5 @@ alias o='open'
 alias e='subl' #needs extra config
 
 # reveal a file in the Finder.app
-alias reveal='open -R'
+alias reveal='open -R' 
 
